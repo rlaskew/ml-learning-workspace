@@ -12,3 +12,8 @@
 * Module 5: Deep Computer Vision - [Google Colab Link](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjhBYzRTQ2pVblpnQnhYbHhWc1h1SEJVaTNHZ3xBQ3Jtc0trNlJ1MmpVM3ZjR2RxWWNsOEV1QUVuUk5hMXlxRmRYRThGcnFnZWhiVHMxOTBiUHZsWTg0OWRWNlpxbUVWa1JKdHJEODByckszTi10aC04eC1taEwyMVFUSWNPSG9JS3hvcUNZVW1YTm9wN0s2OG9fWQ&q=https%3A%2F%2Fcolab.research.google.com%2Fdrive%2F1ZZXnCjFEOkp_KdNcNabd14yok0BAIuwS%23forceEdit%3Dtrue%26sandboxMode%3Dtrue)
 * Module 6: Natural Language Processing with RNNs - [Google Colab Link](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXlIenN0am0wUk9pTWsyR09aNnBnOURoaU54UXxBQ3Jtc0trUC0weVRoaXVzR1FwTjdNdW5JdThod19QRnlNMkowZHVHS01zMGFRNk1LWGdVSU1kb0E3SjgxYktyTFVEaW1FUmlrNzEwR0V1SzN1VXdTZll4OGQ5VzlLamhvVzFNR3BYMWR0NEpuaExyeThiU25JZw&q=https%3A%2F%2Fcolab.research.google.com%2Fdrive%2F1ysEKrw_LE2jMndo1snrZUh5w87LQsCxk%23forceEdit%3Dtrue%26sandboxMode%3Dtrue)
 * Module 7: Reinforcement Learning -  [Google Colab Link](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnBiWjBLYW1TSzVBV0RhMVZNNGxaZksxOF9CZ3xBQ3Jtc0trZm05M2VFNjlYeVd2TlVVTmkyMWt6TkR0ajUwam9RODBCZmxraDBIUGF3RkswQ29qOWhoQk8zQkIwajlYYndYV01qTS0wMW9QZTgwQTZNR2htclBkRkdNRjIyaExyQ3h0X0xMSnpNZ0pTRDdGTjFHbw&q=https%3A%2F%2Fcolab.research.google.com%2Fdrive%2F1IlrlS3bB8t1Gd5Pogol4MIwUxlAjhWOQ%23forceEdit%3Dtrue%26sandboxMode%3Dtrue)
+
+
+### Todo
++ updated colab links to only be the google drive links
++ add AWS deep racer training link
